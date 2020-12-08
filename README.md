@@ -16,14 +16,22 @@ Lang2-File format
 Words are separeted by #### delimiter
 
 \###
+
 English-word_1(sentence_1)
+
 Russian translate
+
 etc
+
 \###
+
 English-word_2(sentence_2)
+
 Russian translate
+
 etc
 \###
+
 end so on
 
 See the example in lang2 dir
